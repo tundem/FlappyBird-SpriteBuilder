@@ -8,6 +8,7 @@
 
 #import "CCNode.h"
 #import "Character.h"
+#import "CCTouch.h"
 
 typedef NS_ENUM(NSInteger, DrawingOrder) {
     DrawingOrderPipes,
