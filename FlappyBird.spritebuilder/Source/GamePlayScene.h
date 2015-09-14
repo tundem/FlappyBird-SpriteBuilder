@@ -8,7 +8,7 @@
 
 #import "CCNode.h"
 #import "Character.h"
-#import "CCTouch.h"
+#import "cocos2d.h"
 
 typedef NS_ENUM(NSInteger, DrawingOrder) {
     DrawingOrderPipes,
